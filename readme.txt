@@ -1,1 +1,1 @@
-こんにりは、SourceTree
+こんにちは、SourceTree
